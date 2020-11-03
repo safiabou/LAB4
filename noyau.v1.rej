@@ -1,0 +1,14 @@
+*** /dev/null
+--- /dev/null
+***************
+*** 25,26
+- PATCHLEVEL = 01
+- SUBLEVEL = -rc1
+--- 25,26 -----
++ PATCHLEVEL = 02
++ SUBLEVEL = -rc2
+***************
+*** 54
+- export	SHELL CC GCC
+--- 54 -----
++ export	SHELL 
